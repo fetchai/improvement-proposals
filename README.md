@@ -1,6 +1,11 @@
 # Fetch.ai Improvement Proposals (FIPs)
 
-Fetch.ai Improvement Proposals (FIPs) describe standards for the Fetch.ai platform, including core protocol specifications, client APIs, agent specifications and APIs, and contract standards.
+Fetch.ai Improvement Proposals (FIPs) describe standards for the Fetch.ai ecosystem, including core protocol specifications, client APIs, agent specifications and APIs, and contract standards. 
+
+This is intended as a first step in migrating the Fetch.ai towards a more decentralized model of governance and development by giving FET token holders and other stakeholders a greater say in the future of the protocol. To begin with, the Fetch.ai technical committee will decide on which proposals are implemented. Over time, we anticipate that the community will be directly involved in decision-making on how the protocol develops and what changes to the Fetch main-net are deployed. 
+
+Before submitting a FIP, we suggest that developers join our [discord](https://discord.com/invite/UDzpBFa) server, and discuss the proposal informally with the Fetch team to understand the existing protocols, the issues that informed their current design and the roadmap for the future, and what support might be available for the implementation.  
+
 
 # Contributing
 
@@ -8,7 +13,7 @@ Fetch.ai Improvement Proposals (FIPs) describe standards for the Fetch.ai platfo
  2. Fork the repository by clicking "Fork" in the top right.
  3. Add your FIP to your fork of the repository, ensuring that it conforms to the template. 
  4. Submit a Pull Request to the [FIPs repository](https://github.com/fetchai/improvement-proposals).
- 
+
 
 Your first PR should be a first draft of the final FIP. It must meet the formatting criteria. An editor will manually review the first PR for a new FIP and assign it a number before merging it. Make sure you include a `discussions-to` header with the URL to a discussion forum or open GitHub issue where people can discuss the FIP as a whole.
 
@@ -16,7 +21,7 @@ If your FIP requires images, the image files should be included in a subdirector
 
 When you believe your FIP is mature and ready to progress past the draft phase, you should do one of two things:
 
- - **For a Standards Track FIP of type Core**, ask to have your issue added to the agenda of an upcoming Fetch developer meeting, where it can be discussed for inclusion in a future hard fork. If implementers agree to include it, the FIP editors will update the state of your FIP to 'Accepted'.
+ - **For a Standards Track FIP of type Core**, ask to have your issue added to the agenda of an upcoming Fetch developer meeting, where it can be discussed for inclusion in a future update. If implementers agree to include it, the FIP editors will update the state of your FIP to 'Accepted'.
  - **For all other FIPs**, open a PR changing the state of your FIP to 'Final'. An editor will review your draft and ask if anyone objects to its being finalised. If the editor decides there is no rough consensus - for instance, because contributors point out significant issues with the FIP - they may close the PR and request that you fix the issues in the draft before trying again.
 
 # FIP Status Terms
